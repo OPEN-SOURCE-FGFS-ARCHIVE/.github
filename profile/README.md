@@ -35,5 +35,9 @@ Actively maintained, version-controlled projects are excluded — they are prese
 - Original Code & Derivatives: GNU GPL (or compatible upstream terms)
 - Attribution: all original authors, modellers, FDM and systems contributors retain full credit
 
-## Copyright Infringement & Takedown Policy
+---
+
+---
+
+# Copyright Infringement & Takedown Policy
 Verified removal requests: sp.ntx.flightgear@gmail.com OR Issue on respective Github repository
