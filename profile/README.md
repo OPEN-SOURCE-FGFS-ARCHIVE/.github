@@ -16,7 +16,7 @@ Available at **[github.com/OPEN-SOURCE-FGFS-ARCHIVE](https://github.com/OPEN-SOU
 2. **No CC-licensed content** - CC0, CC-BY, CC-BY-SA, CC-BY-NC etc. are out of scope.
 3. **Clearly-stated GPL, missing license copy** - if the GPL is clearly stated in `-set.xml`, a `README`, or equivalent but the full license text is absent, the archive attaches the canonical GPL text and documents the claim. This is a preservation courtesy, **not a re-licensing** - authorship remains with the original rights holders.
 
-Actively maintained, version-controlled projects are excluded — they are preserved by their own upstream repositories
+Actively maintained, version-controlled projects are excluded - they are preserved by their own upstream repositories
 
 
 ## Every archived item ships with an **`ARCHIVE_INFO.md`** recording its chain of custody:
