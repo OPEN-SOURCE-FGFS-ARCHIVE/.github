@@ -2,9 +2,6 @@
 
 **Preserving the DVCS-less, the GNU GPL, and the forgotten.**
 
-![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg) 
-![License: GPL-2.0](https://img.shields.io/badge/license-GPL--2.0-green.svg)
-
 Preserving FlightGear aircraft, addons, materials, and assets, with genuine adherence to open-source principles and proper version-control (DVCS) history, where centralized or restricted distribution attempts have obscured it.
 
 Run by **SP-NTX** - sp.ntx.flightgear@gmail.com
